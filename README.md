@@ -135,6 +135,7 @@ To request a **new randomized 4-week learning plan**, simply ask me by providing
 
 - You can specify your preferences (e.g., specific topics, tools, or resources you'd like to focus on).
 - I will create a randomized plan based on your request, ensuring it’s balanced and progressively challenges you.
+- Make sure that reptitive things are continued.
 
 ---
 
